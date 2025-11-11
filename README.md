@@ -3,7 +3,7 @@
 I am a BSc ECS final year student passionate about technology and learning new skills.
 
 - 🔭 I’m currently working on a web development project
-- 🌱 I’m learning AI, React, and Bootstrap
+- 🌱 I’m learning AI, React,ASP DOT NET
 - 📫 How to reach me:rutujaj818@gmail.com
 - ⚡Interesting fact: I love coding and exploring new tech!
 
