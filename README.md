@@ -1,5 +1,5 @@
 ## Hi there! I am Rutuja Rajendra Jadhav 👋
-
+I am coder...
 I am a BSc ECS final year student passionate about technology and learning new skills.
 
 - 🔭 I’m currently working on a web development project
